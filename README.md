@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi there, I'm NitiponArm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<!--
-**NitiponArm/NitiponArm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Little 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 Engineer
+- ❤️ Love to craft with heart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<p align="center">
+  
+![NitiponArm's github stats](https://github-readme-stats.vercel.app/api?username=NitiponArm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  
+</p>
